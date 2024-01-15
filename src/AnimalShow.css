@@ -1,0 +1,21 @@
+.animalShow{
+    position: relative;
+    border: 1px solid lightgray;
+    padding: 10px;
+    border-radius: 5px;
+    margin: 10px;
+    box-shadow: 0px 3px 4px lightgray;
+    display: flex;
+}
+.animalImages{
+    width: 115px;
+    /* display: flex; */
+    /* display: inline-block; */
+    height: 121px;
+}
+
+.heart{
+    position: absolute;
+    bottom: 10%;
+    right: 10%;
+}
